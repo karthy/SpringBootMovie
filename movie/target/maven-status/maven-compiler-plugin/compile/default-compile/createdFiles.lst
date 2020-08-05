@@ -1,0 +1,14 @@
+com\dragon\movie\controller\MovieController.class
+com\dragon\movie\model\MyUserDetails.class
+com\dragon\movie\controller\adminController.class
+com\dragon\movie\service\MovieDetailsService.class
+com\dragon\movie\model\MovieDetails.class
+com\dragon\movie\repository\UserRepository.class
+com\dragon\movie\security\SecurityConfiguration.class
+com\dragon\movie\error\MovieErrorController.class
+com\dragon\movie\repository\MovieRepository.class
+com\dragon\movie\model\User.class
+com\dragon\movie\MovieApplication.class
+com\dragon\movie\exception\GlobalExceptionController.class
+com\dragon\movie\exception\MovieNotFound.class
+com\dragon\movie\service\MyUserDetailsService.class
